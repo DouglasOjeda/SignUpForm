@@ -3,7 +3,10 @@ body {
     height: 100vh;
 }
 .left-container {
-    background-color: red;
+    background: url(../images/background.jpg);
+    background-size: cover;
+    background-position: left center;
+    background-repeat: no-repeat;
     flex: 1;
 }
 .right-container {
