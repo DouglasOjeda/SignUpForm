@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+.left-container {
+    background-color: red;
+    flex: 1;
+}
+.right-container {
+    background-color: blue;
+    flex: 1;;
+}
